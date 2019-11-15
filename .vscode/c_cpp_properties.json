@@ -1,0 +1,27 @@
+{
+    "configurations": [{
+        "name": "Win32",
+        "includePath": [
+            "${workspaceFolder}/**",
+            "F:/external_library/boost_1_66_0/**",
+            "F:/external_library/opencv-2.4.11/build/include/**",
+            "D:/Windows Kits/10/Include/**"
+        ],
+        "defines": [
+            "_DEBUG",
+            "UNICODE",
+            "_UNICODE"
+        ],
+        "intelliSenseMode": "msvc-x64",
+        "browse": {
+            "path": [
+                "${workspaceFolder}/*",
+                "F:/external_library/boost_1_66_0",
+                "F:/external_library/opencv-2.4.11/build/include",
+                "D:/Windows Kits/10/Include"
+            ],
+            "limitSymbolsToIncludedHeaders": true
+        }
+    }],
+    "version": 4
+}
